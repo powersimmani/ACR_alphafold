@@ -1,4 +1,4 @@
-# ACR_alphafold
+# ACR_alphafold (This project is now building)
 
 !!! We are planning to open the project as an executable file (.exe) for more accessiblility. This is expected to be released soon.
 
