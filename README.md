@@ -1,8 +1,14 @@
-# ACR_alphafold (This project is now building)
+# Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins
 
-!!! We are planning to open the project as an executable file (.exe) for more accessiblility. This is expected to be released soon.
+--- Highly accurate anti-CRISPR structural prediction reveals the diverse strategies of phage-derived inhibitor proteins ---
+
 
 ## Project
+
+<p align="center">
+  <img src="https://github.com/powersimmani/Microplastics-Annotation-Package/blob/main/MAP.png" width=70% height=70%>
+</p>
+
 
 With the rising need of automated microplastics (MP) monitoring tool, Microplastics Annotation Package (MAP) tool has been developed. It is a user-friendly tool where the users can perform both MP annotation and monitoring. 
 
