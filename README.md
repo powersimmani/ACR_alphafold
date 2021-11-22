@@ -1,5 +1,10 @@
 # Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins
 
+<p align="center">
+  <img src="https://github.com/powersimmani/ACR_alphafold/example.png" width=70% height=70%>
+</p>
+
+
 CRISPR-Cas9 gene editing technology has been widely applied to improve the traits of animals and plants, to treat diseases, and to exterminate pests. However, its stability has been pointed out due to the off-target problem of targeting an unintended part. Anti-CRISPR (Acr) is a protein that controls CRISPR and is attracting attention as a countermeasure against the side effects of gene editing technology. 
 
 
@@ -35,9 +40,6 @@ All Acr protein sequences were provided by anti-CRISPRdb[] and they are divided 
 
 ## Project
 
-<p align="center">
-  <img src="https://github.com/powersimmani/Microplastics-Annotation-Package/blob/main/MAP.png" width=70% height=70%>
-</p>
 
 
 With the rising need of automated microplastics (MP) monitoring tool, Microplastics Annotation Package (MAP) tool has been developed. It is a user-friendly tool where the users can perform both MP annotation and monitoring. 
