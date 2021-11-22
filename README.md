@@ -1,7 +1,7 @@
 # Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins
 
 <p align="center">
-  <img src="https://github.com/powersimmani/ACR_alphafold/example.png" width=70% height=70%>
+  <img src="example.png" width=70% height=70%>
 </p>
 
 
