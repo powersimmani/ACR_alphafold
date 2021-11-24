@@ -50,7 +50,7 @@ All Acr protein sequences were provided by [anti-CRISPRdb](http://guolab.whu.edu
 #### 3. [`predict_and_ground_truth_matching.xlsx`](https://github.com/powersimmani/ACR_alphafold/blob/main/predict_and_ground_truth_matching.xlsx)
 - The information about which `Ground_truth_pdb` matches `Alphafold_pdbs_from_protein_sequences` is saved here. 
 
-#### 4. [captured_images](https://github.com/powersimmani/ACR_alphafold/tree/main/captured_images)
+#### 4. [`captured_images`](https://github.com/powersimmani/ACR_alphafold/tree/main/captured_images)
 - Screenshots are saved for every 3-D structure.
 - [`Super_imposed`](https://github.com/powersimmani/ACR_alphafold/tree/main/captured_images/Super_imposed): Screenshots of (overlapped) predictions and ground truth is saved here.
 
