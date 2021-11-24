@@ -12,14 +12,14 @@
 
 ### Introduction
 
-Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems. They are natural protein therapeutics that could be used for future drug design. Furthermore, they can be used as a countermeasure against CRISPR-Cas9 gene editing technology, which has off-target problems at the moment.
-
-~~CRISPR-Cas9 gene editing technology has been widely applied to improve the traits of animals and plants, to treat diseases, and to exterminate pests. However, its stability has been pointed out due to the off-target problem of targeting an unintended part. Anti-CRISPR (Acr) is a protein that controls CRISPR and is attracting attention as a countermeasure against the side effects of gene editing technology.~~
-
 <p align="center">
   <img src="example.png" width=100% height=100%>
   <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for 0272 and 0153 </b></figcaption>
 </p>
+
+Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems. They are natural protein therapeutics that could be used for future drug design. Furthermore, they can be used as a countermeasure against CRISPR-Cas9 gene editing technology, which has off-target problems at the moment.
+
+~~CRISPR-Cas9 gene editing technology has been widely applied to improve the traits of animals and plants, to treat diseases, and to exterminate pests. However, its stability has been pointed out due to the off-target problem of targeting an unintended part. Anti-CRISPR (Acr) is a protein that controls CRISPR and is attracting attention as a countermeasure against the side effects of gene editing technology.~~
 
 Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
 
