@@ -38,7 +38,7 @@ Additional structures, not used in this study can be found in [Set D](link)
 
 ## Full prediction result with features
 
-For the full results from AlphaFold, download the [file](link) and unzip it.
+For the full results from AlphaFold, download this [file](link) and unzip it.
 
 ## For citation
 
