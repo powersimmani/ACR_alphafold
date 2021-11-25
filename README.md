@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="example.png" width=100% height=100%>
-  <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for 0272 and 0153 </b></figcaption>
+  <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for anti_CRISPR0272 and anti_CRISPR0153 </b></figcaption>
 </p>
 
 Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems ([Jansen et al. 2002][2]; [Mojica et al. 2005][4]). They are natural protein therapeutics that could be used for future drug design.
