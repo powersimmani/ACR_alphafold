@@ -17,9 +17,9 @@
   <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for 0272 and 0153 </b></figcaption>
 </p>
 
-Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems ([Jansen et al. 2002][1]; [Mojica et al. 2005][2]). They are natural protein therapeutics that could be used for future drug design. Furthermore, they can be used as a countermeasure against CRISPR-Cas9 gene editing technology, which has off-target problems at the moment.
+Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems ([Jansen et al. 2002][2]; [Mojica et al. 2005][4]). They are natural protein therapeutics that could be used for future drug design. Furthermore, they can be used as a countermeasure against CRISPR-Cas9 gene editing technology, which has off-target problems at the moment.
 
-Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold (Jumper et al. 2021; Callaway 2020) from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
+Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold ([Jumper et al. 2021][3]; [Callaway 2020][1]) from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
 
 In our study, we present a wide variety of protein-manipulating strategies of Acr proteins for future protein drug design as well as a novel family of Acr proteins which are structurally homologous to the recently-discovered mechanism of manipulating host proteins through enzymatic activity, rather than through direct inference. For this, we make use of the aforementioned AlphaFold to predict the 3-D structures of Acr proteins and perform structural and sequence analysis using the results.
 
@@ -66,8 +66,11 @@ _**citation to be added here**_
 
 ## References
 [‘It Will Change Everything’: DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures.” Nature 588 (7837): 203–4.][1]
+
 [Jansen, Ruud, Jan D. A. van Embden, Wim Gaastra, and Leo M. Schouls. 2002. “Identification of Genes That Are Associated with DNA Repeats in Prokaryotes.” Molecular Microbiology 43 (6): 1565–75.][2]
-[Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, et al. 2021. “Highly Accurate Protein Structure      Prediction with AlphaFold.” Nature 596 (7873): 583–89.][3]
+
+[Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, et al. 2021. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596 (7873): 583–89.][3]
+
 [Mojica, Francisco J. M., César Díez-Villaseñor, Jesús García-Martínez, and Elena Soria. 2005. “Intervening Sequences of Regularly Spaced Prokaryotic Repeats Derive from Foreign Genetic Elements.” Journal of Molecular Evolution 60 (2): 174–82.][4]
 
 [1]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Callaway, Ewen. 2020. “‘It Will Change Everything’: DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures.” Nature 588 (7837): 203–4."
