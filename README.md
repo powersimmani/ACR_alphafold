@@ -38,7 +38,7 @@ Additional structures, not used in this study can be found in [Set D](link)
 
 ## Full prediction result with features
 
-For the full results from AlphaFold, download this [file](link) and unzip it.
+For the full results from AlphaFold, download this [file](link).
 
 ## For citation
 
@@ -56,8 +56,6 @@ _**citation to be added here**_
  - [Wesley De Neve](https://github.com/wmdeneve)
  - [Hyunjin Shim]()
 
-!!! This section will be updated when the expansive study is published.
-
 
 ## References
 [‘It Will Change Everything’: DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures.” Nature 588 (7837): 203–4.][1]
@@ -73,9 +71,6 @@ _**citation to be added here**_
 [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8371605/ "Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, et al. 2021. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596 (7873): 583–89."
 [4]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Mojica, Francisco J. M., César Díez-Villaseñor, Jesús García-Martínez, and Elena Soria. 2005. “Intervening Sequences of Regularly Spaced Prokaryotic Repeats Derive from Foreign Genetic Elements.” Journal of Molecular Evolution 60 (2): 174–82."
 
-
-
 ## Acknowledgement
 
 The research and development activities described in this paper were funded by Ghent University Global Campus (GUGC).
-
