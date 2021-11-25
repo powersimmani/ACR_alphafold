@@ -17,9 +17,9 @@
   <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for 0272 and 0153 </b></figcaption>
 </p>
 
-Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems. They are natural protein therapeutics that could be used for future drug design. Furthermore, they can be used as a countermeasure against CRISPR-Cas9 gene editing technology, which has off-target problems at the moment.
+Anti-CRISPR (Acr) proteins are the defence mechanism of bacteriophages to counter the prokaryotic adaptive immunity, CRISPR-Cas systems [(Jansen et al. 2002; Mojica et al. 2005)][1]. They are natural protein therapeutics that could be used for future drug design. Furthermore, they can be used as a countermeasure against CRISPR-Cas9 gene editing technology, which has off-target problems at the moment.
 
-Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
+Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold (Jumper et al. 2021; Callaway 2020) from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
 
 In our study, we present a wide variety of protein-manipulating strategies of Acr proteins for future protein drug design as well as a novel family of Acr proteins which are structurally homologous to the recently-discovered mechanism of manipulating host proteins through enzymatic activity, rather than through direct inference. For this, we make use of the aforementioned AlphaFold to predict the 3-D structures of Acr proteins and perform structural and sequence analysis using the results.
 
@@ -57,7 +57,7 @@ For the full results from AlphaFold, download the [file](link) and unzip it.
 
 Readers may use the following information to cite our research and dataset.
 
-_**<citation to be added here>**_
+_**citation to be added here**_
 
 **Please feel free to contact us using 'issues' or the following email address: Hyunjin.Shim@ghent.ac.kr**
 
@@ -65,12 +65,7 @@ _**<citation to be added here>**_
 
 
 ## References
-It will be updated soon 
--->
-- Tool making: https://stackoverflow.com/questions/35508711/how-to-enable-pan-and-zoom-in-a-qgraphicsview
-- MP-VAT: https://mpvat.wordpress.com/
-- processing with image thresholding: 
-- U-Net: Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
+[1]: https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2958.2002.02839.x?sid=nlm%3Apubmed  "Jansen, Ruud, Jan D. A. van Embden, Wim Gaastra, and Leo M. Schouls. 2002. “Identification of Genes That Are Associated with DNA Repeats in Prokaryotes.” Molecular Microbiology 43 (6): 1565–75."
 
 
 ## Acknowledgement
