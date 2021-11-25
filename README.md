@@ -1,17 +1,5 @@
 # [Building] Rethinking Protein Drug Design with Highly Accurate Structure Prediction of Anti-CRISPR Proteins
 
-**Contact**: Hyunjin.Shim@ghent.ac.kr
-
-**Contributors**:
- - [Ho-min Park](https://github.com/powersimmani)
- - [Yunseol Park](https://github.com/YunseolPark)
- - [Joris Vankerschaver](https://github.com/jvkersch)
- - [Arnout Van Messem](https://github.com/avmessem)
- - [Wesley De Neve](https://github.com/wmdeneve)
- - [Hyunjin Shim]()
-
-### Introduction
-
 <p align="center">
   <img src="example.png" width=100% height=100%>
   <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for 0272 and 0153 </b></figcaption>
@@ -44,7 +32,6 @@ All Acr protein sequences were provided by [anti-CRISPRdb](http://guolab.whu.edu
 - [`Super_imposed`](https://github.com/powersimmani/ACR_alphafold/tree/main/captured_images/Super_imposed): Screenshots of (overlapped) predictions and ground truth is saved here.
 
  
-
 ## Additional information
 
 Additional structures, not used in this study can be found in [Set D](link)
@@ -60,6 +47,14 @@ Readers may use the following information to cite our research and dataset.
 _**citation to be added here**_
 
 **Please feel free to contact us using 'issues' or the following email address: Hyunjin.Shim@ghent.ac.kr**
+
+**Contributors**:
+ - [Ho-min Park](https://github.com/powersimmani)
+ - [Yunseol Park](https://github.com/YunseolPark)
+ - [Joris Vankerschaver](https://github.com/jvkersch)
+ - [Arnout Van Messem](https://github.com/avmessem)
+ - [Wesley De Neve](https://github.com/wmdeneve)
+ - [Hyunjin Shim]()
 
 !!! This section will be updated when the expansive study is published.
 
