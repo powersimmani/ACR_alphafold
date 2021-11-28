@@ -32,7 +32,7 @@ All Acr protein sequences were provided by [anti-CRISPRdb](http://guolab.whu.edu
 - [`Super_imposed`](https://github.com/powersimmani/ACR_alphafold/tree/main/captured_images/Super_imposed): Screenshots of (overlapped) predictions and ground truth is saved here.
 
  
-\\<!--## Additional information
+<!--## Additional information
 
 %Additional structures, not used in this study can be found in [Set D](link)
 
