@@ -38,7 +38,7 @@ All Acr protein sequences were provided by [anti-CRISPRdb](http://guolab.whu.edu
 
 ## Full prediction result with features
 
-%For the full results from AlphaFold, download this [file](link).>
+%For the full results from AlphaFold, download this [file](link).
 
 -->
 ## For citation
