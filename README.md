@@ -47,7 +47,7 @@ Readers may use the following information to cite our research and dataset.
 
 _**citation to be added here**_
 
-**Please feel free to contact us using 'issues' or the following email address: Hyunjin.Shim@ghent.ac.kr**
+**Please feel free to contact us using 'issues' or the following email address: homin.park@ghent.ac.kr**
 
 **Contributors**:
  - [Ho-min Park](https://github.com/powersimmani)
