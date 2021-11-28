@@ -9,7 +9,7 @@ Anti-CRISPR (Acr) proteins serve as the defence mechanism of bacteriophages to c
 
 Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold ([Jumper et al. 2021][3]; [Callaway 2020][1]) from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
 
-In our study, we present strategies for drug design using Acr proteins as well as a new family of Acr proteins, structurally similar to Acr protein that show enzymatic activities. For this, we make use of the aforementioned AlphaFold to predict the 3-D structures of Acr proteins and perform structural \& sequence analysis using the results.
+In our study, we present strategies for drug design using Acr proteins as well as a new family of Acr proteins, structurally similar to those that show enzymatic activities. For this, we make use of the aforementioned AlphaFold to predict the 3-D structures of Acr proteins and perform structural and sequence analysis using the results.
 
 Through this github repository, we share the predicted 3-D structures and sequences of Acr proteins used in our study. We do this for researchers conducting related research, to encourage them to cross-verify the structures predicted by AlphaFold, and to help minimize their time and effort in similar studies. 
 
@@ -59,22 +59,21 @@ _**citation to be added here**_
 
 
 ## References
-[‘It Will Change Everything’: DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures.” Nature 588 (7837): 203–4.][1]
+[Callaway, E. ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures. Nature 588, 203–204 (2020).][1]
 
-[Jansen, Ruud, Jan D. A. van Embden, Wim Gaastra, and Leo M. Schouls. 2002. “Identification of Genes That Are Associated with DNA Repeats in Prokaryotes.” Molecular Microbiology 43 (6): 1565–75.][2]
+[Jansen, R., van Embden, J. D. A., Gaastra, W. & Schouls, L. M. Identification of genes that are associated with DNA repeats in prokaryotes. Mol. Microbiol. 43, 1565–1575 (2002).][2]
 
-[Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, et al. 2021. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596 (7873): 583–89.][3]
+[Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature 596, 583–589 (2021).][3]
 
-[Mojica, Francisco J. M., César Díez-Villaseñor, Jesús García-Martínez, and Elena Soria. 2005. “Intervening Sequences of Regularly Spaced Prokaryotic Repeats Derive from Foreign Genetic Elements.” Journal of Molecular Evolution 60 (2): 174–82.][4]
+[Mojica, F. J. M., Díez-Villaseñor, C., García-Martínez, J. & Soria, E. Intervening sequences of regularly spaced prokaryotic repeats derive from foreign genetic elements. J. Mol. Evol. 60, 174–182 (2005).][4]
 
 [Bondy-Denomy, J., Pawluk, A., Maxwell, K. et al. Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system. Nature 493, 429–432 (2013).][5]
 
-[1]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Callaway, Ewen. 2020. “‘It Will Change Everything’: DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures.” Nature 588 (7837): 203–4."
-[2]: https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2958.2002.02839.x?sid=nlm%3Apubmed  "Jansen, Ruud, Jan D. A. van Embden, Wim Gaastra, and Leo M. Schouls. 2002. “Identification of Genes That Are Associated with DNA Repeats in Prokaryotes.” Molecular Microbiology 43 (6): 1565–75."
-[3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8371605/ "Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, et al. 2021. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596 (7873): 583–89."
-[4]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Mojica, Francisco J. M., César Díez-Villaseñor, Jesús García-Martínez, and Elena Soria. 2005. “Intervening Sequences of Regularly Spaced Prokaryotic Repeats Derive from Foreign Genetic Elements.” Journal of Molecular Evolution 60 (2): 174–82."
-[5]: https://rdcu.be/cCbDz "Bondy-Denomy, J., Pawluk, A., Maxwell, K. et al. "Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system." Nature 493, 429–432 (2013)."
-
+[1]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Callaway, E. ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures. Nature 588, 203–204 (2020)."
+[2]: https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2958.2002.02839.x?sid=nlm%3Apubmed  "Jansen, R., van Embden, J. D. A., Gaastra, W. & Schouls, L. M. Identification of genes that are associated with DNA repeats in prokaryotes. Mol. Microbiol. 43, 1565–1575 (2002)."
+[3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8371605/ "Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature 596, 583–589 (2021)."
+[4]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Mojica, F. J. M., Díez-Villaseñor, C., García-Martínez, J. & Soria, E. Intervening sequences of regularly spaced prokaryotic repeats derive from foreign genetic elements. J. Mol. Evol. 60, 174–182 (2005)."
+[5]: https://rdcu.be/cCbDz "Bondy-Denomy, J., Pawluk, A., Maxwell, K. et al. Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system. Nature 493, 429–432 (2013)."
 ## Acknowledgement
 
 The research and development activities described in this paper were funded by Ghent University Global Campus (GUGC).
