@@ -5,7 +5,7 @@
   <figcaption align = "center"><b>Fig.1 - Predicted protein structure and the corresponding superimposed image with ground truth for anti_CRISPR0272 and anti_CRISPR0153 </b></figcaption>
 </p>
 
-Anti-CRISPR (Acr) proteins serve as the defence mechanism of bacteriophages to counter the bacterial/archaeal adaptive immunity, called CRISPR-Cas systems ([Jansen et al. 2002][2]; [Mojica et al. 2005][4]). They are natural protein therapeutics that could be used for future drug design.
+Anti-CRISPR (Acr) proteins serve as the defence mechanism of bacteriophages to counter the bacterial/archaeal adaptive immunity, called CRISPR-Cas systems ([Jansen et al. 2002][2]; [Mojica et al. 2005][4]; [Bondy-Denomy et al. 2013][5]). They are natural protein therapeutics that could be used for future drug design.
 
 Structural and functional analysis of these Acr proteins is essential for them to be used for drug design or in any other capacity. Currently, advanced equipments such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy are used to visualize the structure of proteins. These methods are highly accurate, but they can be very time consuming and expensive. To overcome these disadvantages, prediction of protein structures via machine learning has gained a lot of attention as of late. The Critical Assessment of protein Structure Prediction (CASP), for example, is a competition for predicting protein 3-D structures from their sequences. In the 14th CASP contest, AlphaFold ([Jumper et al. 2021][3]; [Callaway 2020][1]) from Google Deepmind achieved highely accurate molecular localization of a variety of proteins and won the contest. AlphaFold can predict protein structures in a matter of hours, which would normally take months in a wet lab.
 
@@ -67,10 +67,13 @@ _**citation to be added here**_
 
 [Mojica, Francisco J. M., César Díez-Villaseñor, Jesús García-Martínez, and Elena Soria. 2005. “Intervening Sequences of Regularly Spaced Prokaryotic Repeats Derive from Foreign Genetic Elements.” Journal of Molecular Evolution 60 (2): 174–82.][4]
 
+[Bondy-Denomy, J., Pawluk, A., Maxwell, K. et al. Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system. Nature 493, 429–432 (2013).][5]
+
 [1]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Callaway, Ewen. 2020. “‘It Will Change Everything’: DeepMind’s AI Makes Gigantic Leap in Solving Protein Structures.” Nature 588 (7837): 203–4."
 [2]: https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2958.2002.02839.x?sid=nlm%3Apubmed  "Jansen, Ruud, Jan D. A. van Embden, Wim Gaastra, and Leo M. Schouls. 2002. “Identification of Genes That Are Associated with DNA Repeats in Prokaryotes.” Molecular Microbiology 43 (6): 1565–75."
 [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8371605/ "Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, et al. 2021. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596 (7873): 583–89."
 [4]: https://link.springer.com/article/10.1007%2Fs00239-004-0046-3 "Mojica, Francisco J. M., César Díez-Villaseñor, Jesús García-Martínez, and Elena Soria. 2005. “Intervening Sequences of Regularly Spaced Prokaryotic Repeats Derive from Foreign Genetic Elements.” Journal of Molecular Evolution 60 (2): 174–82."
+[5]: https://rdcu.be/cCbDz "Bondy-Denomy, J., Pawluk, A., Maxwell, K. et al. "Bacteriophage genes that inactivate the CRISPR/Cas bacterial immune system." Nature 493, 429–432 (2013)."
 
 ## Acknowledgement
 
