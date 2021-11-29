@@ -49,6 +49,17 @@ Rethinking protein drug design with highly accurate structure prediction of anti
 Ho-min Park, Yunseol Park, Joris Vankerschaver, Arnout Van Messem, Wesley De Neve, Hyunjin Shim
 bioRxiv 2021.11.28.470242; doi: https://doi.org/10.1101/2021.11.28.470242
 
+```
+@article {Park2021.11.28.470242,
+	author = {Park, Ho-min and Park, Yunseol and Vankerschaver, Joris and Van Messem, Arnout and De Neve, Wesley and Shim, Hyunjin},
+	title = {Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins},
+	elocation-id = {2021.11.28.470242},
+	year = {2021},
+	doi = {10.1101/2021.11.28.470242},
+	publisher = {Cold Spring Harbor Laboratory},
+	journal = {bioRxiv}
+}
+```
 **Please feel free to contact us using 'issues' or the following email address: homin.park@ghent.ac.kr**
 
 **Contributors**:
