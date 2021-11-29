@@ -1,4 +1,4 @@
-# [Building] Rethinking Protein Drug Design with Highly Accurate Structure Prediction of Anti-CRISPR Proteins
+# Rethinking Protein Drug Design with Highly Accurate Structure Prediction of Anti-CRISPR Proteins
 
 <p align="center">
   <img src="example.png" width=100% height=100%>
@@ -45,7 +45,9 @@ All Acr protein sequences were provided by [anti-CRISPRdb](http://guolab.whu.edu
 
 Readers may use the following information to cite our research and dataset.
 
-_**citation to be added here**_
+Rethinking protein drug design with highly accurate structure prediction of anti-CRISPR proteins
+Ho-min Park, Yunseol Park, Joris Vankerschaver, Arnout Van Messem, Wesley De Neve, Hyunjin Shim
+bioRxiv 2021.11.28.470242; doi: https://doi.org/10.1101/2021.11.28.470242
 
 **Please feel free to contact us using 'issues' or the following email address: homin.park@ghent.ac.kr**
 
