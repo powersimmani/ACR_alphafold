@@ -72,7 +72,7 @@ bioRxiv 2021.11.28.470242; doi: https://doi.org/10.1101/2021.11.28.470242
  - [Joris Vankerschaver](https://github.com/jvkersch)
  - [Arnout Van Messem](https://github.com/avmessem)
  - [Wesley De Neve](https://github.com/wmdeneve)
- - [Hyunjin Shim]()
+ - [Hyunjin Shim](https://github.com/hjshim)
 
 
 ## References
